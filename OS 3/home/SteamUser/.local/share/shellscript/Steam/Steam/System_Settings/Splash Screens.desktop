@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Splash Screens
+Comment=Splash Screens
+GenericName=Splash Screens
+Exec=~/.local/share/shellscript/Steam/SyS_Splash_Settings.sh
+Icon=Steam_Gear_Settings_1
+Terminal=true
+StartupNotify=true
+Type=Application
+Categories=System

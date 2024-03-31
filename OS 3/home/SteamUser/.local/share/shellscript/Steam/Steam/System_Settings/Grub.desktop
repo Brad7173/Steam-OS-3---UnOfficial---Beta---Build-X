@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Grub
+Comment=Grub
+GenericName=Grub
+Exec=~/.local/share/shellscript/Steam/
+Icon=Steam_Gear_Settings_1
+Terminal=true
+StartupNotify=true
+Type=Application
+Categories=System
