@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Restart
+Comment=Restart Steam OS 3
+GenericName=Restart
+Exec=~/.local/share/shellscript/Steam/Restart.sh
+Icon=Steam_Gear_Restart_1
+Terminal=true
+StartupNotify=true
+Type=Application
+Categories=System

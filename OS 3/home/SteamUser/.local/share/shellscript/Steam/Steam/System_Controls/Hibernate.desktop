@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hibernate
+Comment=Hibernate Steam OS 3
+GenericName=Hibernate
+Exec=~/.local/share/shellscript/
+Icon=Steam_Gear_Hibernate_1
+Terminal=true
+StartupNotify=true
+Type=Application
+Categories=System

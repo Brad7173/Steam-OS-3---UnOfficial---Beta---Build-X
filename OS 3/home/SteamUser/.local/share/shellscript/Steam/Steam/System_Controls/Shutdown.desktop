@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Shutdown
+Comment=Shut Down Steam OS 3
+GenericName=Shutdown
+Exec=~/.local/share/shellscript/Steam/Shutdown.sh
+Icon=Steam_Gear_4
+Terminal=true
+StartupNotify=true
+Type=Application
+Categories=System

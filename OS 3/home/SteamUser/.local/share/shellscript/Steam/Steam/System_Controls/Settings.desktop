@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Settings
+Comment=Settings
+GenericName=Settings
+Exec=~/.local/share/shellscript/Steam/SOS3_Settings
+Icon=Steam_Gear_Settings_1
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=System

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Logout
+Comment=Log Out Of Steam OS 3
+GenericName=Logout
+Exec=~/.local/share/shellscript/Steam/Log_Out.sh
+Icon=Steam_Gear_Logout_2
+Terminal=true
+StartupNotify=true
+Type=Application
+Categories=System

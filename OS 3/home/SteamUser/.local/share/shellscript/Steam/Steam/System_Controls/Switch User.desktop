@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Switch User
+Comment=Switch User
+GenericName=Switch User
+Exec=~/.local/share/shellscript/
+Icon=Steam_Gear_Switch_User_1
+Terminal=true
+StartupNotify=true
+Type=Application
+Categories=System
